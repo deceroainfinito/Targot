@@ -1,0 +1,7 @@
+# github "ReactiveX/RxSwift" ~> 4.0
+# github "Raizlabs/BonMot"
+# github "malcommac/SwiftRichString"
+# github "RxSwiftCommunity/RxRealm"
+
+github "RxSwiftCommunity/RxFlow" "develop"
+github "RxSwiftCommunity/RxGesture"

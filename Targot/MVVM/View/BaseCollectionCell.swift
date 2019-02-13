@@ -1,0 +1,25 @@
+//
+//  BaseCollectionCell.swift
+//  Targot
+//
+//
+
+import UIKit
+
+protocol ViewsConfigurable {
+  func setupViews()
+}
+
+class BaseCustomCell: UICollectionViewCell, ViewsConfigurable {
+  override init(frame: CGRect) {
+    super.init(frame: frame)
+
+    setupViews()
+  }
+
+  required init?(coder aDecoder: NSCoder) {
+    fatalError("init(coder:) has not been implemented")
+  }
+
+  func setupViews() { }
+}

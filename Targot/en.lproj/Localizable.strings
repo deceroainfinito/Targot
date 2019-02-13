@@ -1,0 +1,54 @@
+/* No comment provided by engineer. */
+"CardsTitle"             = "Cards";
+
+/* No comment provided by engineer. */
+"CategoryBars"           = "Bares y Restaurantes";
+
+/* No comment provided by engineer. */
+"CategoryShopping"       = "Shopping";
+
+/* No comment provided by engineer. */
+"CategoryLeisure"        = "Leisure";
+
+/* No comment provided by engineer. */
+"CategorySports"         = "Sports";
+
+"CardDetailNameLabel"    = "Name";
+"CardDetailAddressLabel" = "Address";
+"CardDetailPhoneLabel"   = "Phone";
+"CardDetailSocialLabel"  = "Social Networks";
+"CardDetailVisitsLabel"  = "Visits";
+"CardDetailPhotosLabel"  = "Photos";
+
+"CardDetailNamePH"       = "Bar La Plata";
+"CardDetailAddressPH"    = "Ave Del Paraíso, 7";
+"CardDetailCityPH"       = "Madrid";
+"CardDetailCPPH"         = "28080";
+"CardDetailPhonePH"      = "555 55 55";
+"CardDetailFacePH"       = "Facebook";
+"CardDetailInstagramPH"  = "Instagram";
+"CardDetailTwitterPH"    = "Twitter";
+"CardDetailWebPH"        = "Web";
+"CardDetailNewVisit"     = "Add new visit";
+"CardDetailNotesLabel"   = "Notes";
+
+"CategoryIconShoppingOn"  = "category_shopping_on";
+"CategoryIconShoppingOff" = "category_shopping_off";
+"CategoryIconSportsOn"    = "category_sport_on";
+"CategoryIconSportsOff"   = "category_sport_off";
+"CategoryIconLeisureOn"   = "category_leisure_on";
+"CategoryIconLeisureOff"  = "category_leisure_off";
+"CategoryIconBarestOn"    = "category_barest_on";
+"CategoryIconBarestOff"   = "category_barest_off";
+
+"GeoLocationButton" = "button_geolocal_en";
+"DoneButton"        = "button_done_en";
+
+"FacebookIconOn"   = "icon_facebook_color";
+"FacebookIconOff"  = "icon_facebook";
+"InstagramIconOn"  = "icon_IG_color";
+"InstagramIconOff" = "icon_IG";
+"TwitterIconOn"    = "icon_twitter_color";
+"TwitterIconOff"   = "icon_twitter";
+"WebIconOn"        = "icon_web_color";
+"WebIconOff"       = "icon_web";

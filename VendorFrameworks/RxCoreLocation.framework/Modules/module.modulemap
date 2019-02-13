@@ -1,0 +1,11 @@
+framework module RxCoreLocation {
+  umbrella header "RxCoreLocation.h"
+
+  export *
+  module * { export * }
+}
+
+module RxCoreLocation.Swift {
+    header "RxCoreLocation-Swift.h"
+    requires objc
+}

@@ -1,0 +1,35 @@
+//
+//  SDPhotosHelperTest.swift
+//  TargotTests
+//
+//
+
+import XCTest
+
+import Photos
+
+@testable import Targot
+
+class SDPhotosHelperTest: XCTestCase {
+
+  override func setUp() {
+    super.setUp()
+    // Put setup code here. This method is called before the invocation of each test method in the class.
+  }
+
+  override func tearDown() {
+    // Put teardown code here. This method is called after the invocation of each test method in the class.
+    super.tearDown()
+  }
+
+  func testHasGrantedAccess() {
+//    let mock = MockPhotoLibrary.self
+//    mock.mockStatus = PHAuthorizationStatus.authorized
+//    SDPhotosHelper.photoLibrary = MockPhotoLibrary.self
+//
+//    XCTAssertTrue(SDPhotosHelper.hasGrantedAccess)
+//
+//    mock.mockStatus = PHAuthorizationStatus.denied
+//    XCTAssertFalse(SDPhotosHelper.hasGrantedAccess)
+  }
+}
