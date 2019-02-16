@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  Targot
 //
-//
 
 import UIKit
 
