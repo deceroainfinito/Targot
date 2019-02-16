@@ -2,7 +2,6 @@
 //  AppFlow.swift
 //  Targot
 //
-//
 
 import Foundation
 import UIKit
